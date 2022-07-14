@@ -1,0 +1,9 @@
+.card-container {
+    height: 10vh;
+    width: 10vw;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
